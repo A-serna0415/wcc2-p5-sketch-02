@@ -1,4 +1,4 @@
-# Noisy Clock
+# Noisy_Clock
 *This project is a creative coding sketch made using p5.js.*
 
 ## Description
